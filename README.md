@@ -106,7 +106,7 @@ Connecting food donors with NGOs and people in need to reduce food wastage and c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuri%20Panse-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mayuri-panse)
 
-[![X](https://img.shields.io/badge/X-@Keengirl__19-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Keengirl_19)
+[![X](https://img.shields.io/badge/X-@Keengirl__19-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Mayuriiii_19)
 
 [![GitHub](https://img.shields.io/badge/GitHub-MayuriiiPanse-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MayuriiiPanse)
 
